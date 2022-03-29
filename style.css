@@ -1,0 +1,187 @@
+:root {
+    --Bright-orange: hsl(31, 77%, 52%);
+    --dark-cyan: hsl(184, 100%, 22%);
+    --very-dark-cyan: hsl(179, 100%, 13%);
+    --very-light-gray: hsl(0, 0%, 95%);
+    --transparent-white: hsla(0, 0%, 100%, 0.75);
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+
+body {
+    background: var(--very-light-gray);
+    background-size: 100vw;
+    height: 100vh;
+}
+
+
+main {
+    padding-top: 5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 2rem 2rem 2rem 3rem;
+
+    max-width: 335px;
+    min-height: 400px;
+    gap: 2rem;
+}
+
+.sedan {
+    background: var(--Bright-orange);
+    border-radius: 10px 10px 0 0;
+}
+
+.suv {
+    background: var(--dark-cyan);
+
+}
+
+.lux {
+    background: var(--very-dark-cyan);
+    border-radius: 0 0 10px 10px;
+}
+
+.car-icon {
+    padding-top: 1rem;
+}
+
+.heading {
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 40px;
+    color: var(--very-light-gray);
+    text-transform: uppercase;
+}
+
+.desc {
+    font-size: 15px;
+    font-family: 'Lexend Deca', sans-serif;;
+    color: var(--transparent-white);
+    line-height: 1.8;
+    padding: 0 1rem 0 0;
+}
+
+.lux-desc {
+    padding-right: 2rem;
+}
+
+.div-a {
+    padding: 1rem 0 2rem 0;
+}
+
+.learn-more {
+    text-decoration: none;
+    background-color: var(--very-light-gray);
+    font-size: 15px;
+    font-family: 'Lexend Deca', sans-serif;
+    padding: 1rem 2rem 1rem 2rem;
+    border-radius: 40px;
+    cursor: pointer;
+    text-transform: capitalize;
+}
+
+.a-sedan {
+    color: var(--Bright-orange);
+}
+
+.a-sedan:hover {
+    background-color: var(--Bright-orange);
+    border: 2px solid var(--very-light-gray);
+    color: var(--very-light-gray);
+    padding: 0.875rem 1.875rem 0.875rem 1.875rem;
+}
+
+.a-suv {
+    color: var(--dark-cyan);
+}
+
+.a-suv:hover {
+    background-color: var(--dark-cyan);
+    color: var(--very-light-gray);
+    border: 2px solid var(--very-light-gray);
+    padding: 0.875rem 1.875rem 0.875rem 1.875rem;
+}
+
+.a-luxury {
+    color: var(--very-dark-cyan);
+}
+
+.a-luxury:hover {
+    background-color: var(--very-dark-cyan);
+    color: var(--very-light-gray);
+    border: 2px solid var(--very-light-gray);
+    padding: 0.875rem 1.875rem 0.875rem 1.875rem;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+    text-decoration: none;
+}
+
+@media only screen and (min-width: 810px) {
+    main {
+        padding-top: 13rem;
+        flex-direction: row;
+        /*align-items: inherit;*/
+    }
+
+    .container {
+        /*padding: 3rem 2rem 4rem 3rem;*/
+
+    }
+
+    .sedan {
+        background: var(--Bright-orange);
+        border-radius: 10px 0px 0 10px;
+    }
+
+    .suv {
+        background: var(--dark-cyan);
+
+    }
+
+    .lux {
+        background: var(--very-dark-cyan);
+        border-radius: 0 10px 10px 0px;
+    }
+
+    .lux-desc {
+        padding-right: 2rem;
+    }
+
+    .desc {
+        padding: 0 3rem 0 0;
+        line-height: 1.7;
+    }
+    .attribution {
+        padding-top: 0.5rem;
+        font-size: 14px;
+        font-family: 'Lexend Deca', sans-serif;
+    }
+}

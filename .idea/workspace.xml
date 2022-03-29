@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51bebc3f-8d7b-4139-b07a-c2f34c5b5b26" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="26l48Q1mOhreSRFgHP962W44kUd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nft-preview-card-component-main" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51bebc3f-8d7b-4139-b07a-c2f34c5b5b26" name="Default Changelist" comment="" />
+      <created>1647984681846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647984681846</updated>
+      <workItem from="1647984684042" duration="1761000" />
+      <workItem from="1647986505378" duration="1050000" />
+      <workItem from="1648075005458" duration="674000" />
+      <workItem from="1648076966218" duration="8000" />
+      <workItem from="1648296800066" duration="1609000" />
+      <workItem from="1648298453325" duration="1841000" />
+      <workItem from="1648300333357" duration="1808000" />
+      <workItem from="1648302176760" duration="1842000" />
+      <workItem from="1648304067168" duration="1932000" />
+      <workItem from="1648306042369" duration="1012000" />
+      <workItem from="1648307489179" duration="1047000" />
+      <workItem from="1648571654185" duration="777000" />
+      <workItem from="1648574156349" duration="2044000" />
+      <workItem from="1648576232563" duration="1682000" />
+      <workItem from="1648578038298" duration="1649000" />
+      <workItem from="1648580136516" duration="594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1648578404547">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1648578404547" />
+    <state x="922" y="165" key="SettingsEditor" timestamp="1648576105258">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1648576105258" />
+  </component>
+</project>
