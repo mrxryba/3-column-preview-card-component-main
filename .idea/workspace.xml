@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51bebc3f-8d7b-4139-b07a-c2f34c5b5b26" name="Default Changelist" comment="" />
+    <list default="true" id="51bebc3f-8d7b-4139-b07a-c2f34c5b5b26" name="Default Changelist" comment="Style- Improved space below the description, length of the button has been increased">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +19,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="26l48Q1mOhreSRFgHP962W44kUd" />
   <component name="ProjectViewState">
@@ -54,14 +60,24 @@
       <workItem from="1648574156349" duration="2044000" />
       <workItem from="1648576232563" duration="1682000" />
       <workItem from="1648578038298" duration="1649000" />
-      <workItem from="1648580136516" duration="594000" />
+      <workItem from="1648580136516" duration="597000" />
+      <workItem from="1648581224103" duration="1631000" />
+      <workItem from="1648583589535" duration="511000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Style- Improved space below the description, length of the button has been increased" />
+    <option name="LAST_COMMIT_MESSAGE" value="Style- Improved space below the description, length of the button has been increased" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="574" y="88" key="CommitChangelistDialog2" timestamp="1648584094161">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="574" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1648584094161" />
     <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1648578404547">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
