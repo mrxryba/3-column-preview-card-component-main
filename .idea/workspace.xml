@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51bebc3f-8d7b-4139-b07a-c2f34c5b5b26" name="Default Changelist" comment="Style- Improved space below the description, length of the button has been increased">
+    <list default="true" id="51bebc3f-8d7b-4139-b07a-c2f34c5b5b26" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -32,7 +32,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nft-preview-card-component-main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../phpagain" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -62,8 +62,19 @@
       <workItem from="1648578038298" duration="1649000" />
       <workItem from="1648580136516" duration="597000" />
       <workItem from="1648581224103" duration="1631000" />
-      <workItem from="1648583589535" duration="511000" />
+      <workItem from="1648583589535" duration="1117000" />
+      <workItem from="1648591581550" duration="594000" />
+      <workItem from="1648748498431" duration="648000" />
+      <workItem from="1648750327450" duration="358000" />
     </task>
+    <task id="LOCAL-00001" summary="Style- Improved space below the description, length of the button has been increased">
+      <created>1648584110045</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648584110045</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,17 +85,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="Style- Improved space below the description, length of the button has been increased" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="88" key="CommitChangelistDialog2" timestamp="1648584094161">
+    <state x="574" y="88" key="CommitChangelistDialog2" timestamp="1648584109394">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="574" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1648584094161" />
-    <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1648578404547">
+    <state x="574" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1648584109394" />
+    <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1648748546429">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1648578404547" />
+    <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1648748546429" />
     <state x="922" y="165" key="SettingsEditor" timestamp="1648576105258">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1648576105258" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1648584117282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1648584117282" />
   </component>
 </project>

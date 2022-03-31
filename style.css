@@ -180,6 +180,7 @@ main {
         line-height: 1.7;
         white-space: inherit;
     }
+
     .div-a {
         padding: 4rem 0 2rem 0;
     }
@@ -187,6 +188,19 @@ main {
     .learn-more {
         padding: 1rem 2.2rem 1rem 2.2rem;
     }
+
+    .a-sedan:hover {
+        padding: 0.875rem 2.075rem 0.875rem 2.075rem;
+    }
+
+    .a-suv:hover {
+        padding: 0.875rem 2.075rem 0.875rem 2.075rem;
+    }
+
+    .a-luxury:hover {
+        padding: 0.875rem 2.075rem 0.875rem 2.075rem;
+    }
+
     .attribution {
         padding-top: 0.5rem;
         font-size: 14px;
